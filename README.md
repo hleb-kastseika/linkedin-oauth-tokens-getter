@@ -8,5 +8,8 @@ Tool for receiving LinkedIn API Oauth token/secret token
  - pip
 
 ## How to run locally:
+ - set 'consumer_key' & 'consumer_secret' in 'oauth_tokens_getter.py'
  - `pip install -r requirements.txt`
  - `python oauth_tokens_getter.py`
+ - follow the instructions on the command line
+ - take Oauth token & Oauth secret token from command line. 
